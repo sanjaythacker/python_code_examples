@@ -19,4 +19,5 @@ for i in range(1, 101):
     elif i % 5 == 0:
         print(i, ' is a multiple of 5')
     else:
-        print(i)
+        print(i, ' is not a multiple of 3 or 5')
+
